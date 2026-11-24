@@ -1,5 +1,7 @@
 # The Rim by Night: Awakened
 
+> **This wiki has moved** to [The Rim by Night wiki](https://byvassilios.github.io/rim-by-night-wiki/awakened/), one site for every mod in the series. This copy is no longer updated.
+
 Mage: The Awakening (second edition) in RimWorld. A colonist whose soul reaches one of the Supernal Realms Awakens. From then on she can cast spells with the ten Arcana, and every spell risks Paradox.
 
 > **In beta.** Balance will change and bugs are likely. Keep a backup of any save you add the mod to.
